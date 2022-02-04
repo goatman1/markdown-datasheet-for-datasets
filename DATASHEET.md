@@ -275,5 +275,3 @@ This dataset consider how searches for the terms "diet" and "gym" vary from Sept
  [4]Stephens-Davidowitz, Seth. "Tell Me, Google. Is My Son a Genius?". The New York Times.
  
  [5]Stephens-Davidowitz, Seth. "What Do Pregnant Women Want". The New York Times.
-
-$ pandoc How_I_got_svg-resizer_working_on_Mac_OSX.md -s -o test1.pdf
