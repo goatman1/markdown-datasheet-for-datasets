@@ -264,7 +264,7 @@ This dataset consider how searches for the terms "diet" and "gym" vary from Sept
 
 	*Yes they can contact Google.*
 
-**Reference**
+## Reference
 	
  [1]On the predictability of Search Trends, Yossi Matias, Niv Efron, and Yair Shimshoni, Insights Search, Google Research blog, August 17, 2009.
  
